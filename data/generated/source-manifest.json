@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-11-19T12:00:00-04:00",
+  "sources": [
+    {
+      "name": "IOSPD 2025 detalhado",
+      "sha256": "7bc18f9899bf9f10191209bcaff148be85b38b61ebc288921829e01584cd432d"
+    },
+    {
+      "name": "Relatório de Convalidação IOSPD 2026",
+      "sha256": "acbb500a4575e33432a95bab7d0077df7b98702f245ea6703e8759dbfed1a77b"
+    }
+  ]
+}

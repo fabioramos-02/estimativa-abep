@@ -1,0 +1,385 @@
+{
+  "rows": [
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.1 - Possui um Portal Único ou um Portal de Serviços disponível ao usuário?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.2 - Qual o percentual da população utiliza a plataforma única de serviços públicos?",
+      "score": 0,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.3 - Possui sistema unificado de agendamento DIGITAL de serviços?",
+      "score": 2.25,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.4 - Possui metodologia e ferramenta de avaliação da satisfação dos usuários em relação aos serviços públicos prestados?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.5 - A UF possui estrutura colegiada de governança de dados, ampla, instituída formalmente e ativa?",
+      "score": 0,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.6 - Possui gestão de cadastro e perfil do cidadão pelo usuário?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.7 - A manifestação de ouvidoria pode ser feita pelo Portal Único/Portal de Serviços de forma integrada com a mesma sessão/login?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.8 - Possui serviço online para receber e tratar solicitações de simplificação de serviços (Ex.: Simplifique – Governo Federal)?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.9 – Utiliza solução de assinatura eletrônica corporativa própria ou do Gov.br?",
+      "score": 1.4985,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.10 - Possui Estratégia de Governo Digital válida e em funcionamento para 2025?",
+      "score": 1.4985,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.11 - O Quadro Geral ou as Cartas de Serviços Estaduais/Distrital estão integrados à Base Nacional de Serviços Públicos, com serviços disponíveis na busca de serviços geral e por estado do Portal Gov.br?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.12 - O Portal de Governo possui ferramenta DIGITAL integrada de solicitação de atendimento, de acompanhamento da entrega e avaliação dos serviços públicos, notificação e possibilidade de pagamento? Marque TODAS as alternativas que se aplicam.",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "1",
+      "indicator": "I.13 - Possui Portal específico para a disponibilização de Dados Abertos?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "2",
+      "indicator": "II.1 - Possui rematrícula online nas escolas estaduais?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "2",
+      "indicator": "II.2 - Possui serviço de solicitação de medicamento de alto custo, 100% digital?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "2",
+      "indicator": "II. 3 - Possui tele-atendimento para serviços de saúde por videoconferência para o cidadão?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "2",
+      "indicator": "II.4 - Possui prova de vida online para servidores, aposentados e pensionistas?",
+      "score": 0,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "2",
+      "indicator": "II.5 - Possui funcionalidade de apresentação de recurso e defesa online para infrações de trânsito em âmbito estadual?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "2",
+      "indicator": "II.6 - Possui registro digital de reclamação do cidadão referente ao Código de Defesa do Consumidor?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "2",
+      "indicator": "II.7 - Possui solicitação online da 2ª via de Carteira de Identidade (RG)?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "2",
+      "indicator": "II.8 - Possui Boletim de Ocorrência online de VIOLÊNCIA DOMÉSTICA ou CONTRA A MULHER?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "2",
+      "indicator": "II.9 - Possui consulta online dos MEDICAMENTOS DISPONÍVEIS na rede estadual de saúde?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "2",
+      "indicator": "II.10 - Possui emissão e envio de RECEITA online para PRESCRIÇÃO MÉDICA ao cidadão na rede estadual de saúde?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "2",
+      "indicator": "II.11 - Possui solicitação e emissão online de DIPLOMAS DO ENSINO MÉDIO nas escolas da rede estadual de educação?",
+      "score": 0,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "2",
+      "indicator": "II.12 - Possui TRANSFERÊNCIA ONLINE de alunos entre escolas da rede estadual?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "3",
+      "indicator": "III.1 O Governo Estadual / Distrital regulamentou os principais pilares da Lei Federal 13.460/2017 (Código de Defesa do Usuário de Serviço Público)? Marque todas as alternativas que se aplicam.",
+      "score": 0,
+      "maximum": 1
+    },
+    {
+      "uf": "MS",
+      "dimension": "3",
+      "indicator": "III.1a - A Carta de Serviços ao Usuário foi normatizada pelo Governo Estadual/Distrital, conforme previsto no Art. 7º, §5 (Carta de Serviços ao Usuário) da Lei Federal 13.460/2017 (Código de Defesa do Usuário do Serviço Público)?",
+      "score": 1.75,
+      "maximum": 1.75
+    },
+    {
+      "uf": "MS",
+      "dimension": "3",
+      "indicator": "III.1b - A criação de Ouvidorias Públicas foi normatizado pelo Governo Estadual/Distrital, conforme previsto no Art. 17 (Ouvidorias Públicas) da Lei Federal 13.460/2017 (Código de Defesa do Usuário) do Serviço Público) ?",
+      "score": 1.75,
+      "maximum": 1.75
+    },
+    {
+      "uf": "MS",
+      "dimension": "3",
+      "indicator": "III.1c - O Conselho de Usuários do Serviço Público foi normatizado pelo Governo Estadual/Distrital, conforme previsto no Art. 22 (Conselho de Usuários do Serviço Público) da Lei Federal 13.460/2017 (Código de Defesa do Usuário do Serviço Público)?",
+      "score": 1.75,
+      "maximum": 1.75
+    },
+    {
+      "uf": "MS",
+      "dimension": "3",
+      "indicator": "III.1d - O processo de Avaliação dos Serviços Públicos foi normatizado pelo Governo Estadual/Distrital, conforme previsto no Art. 24o (Avaliação dos Serviços Públicos) da Lei Federal 13.460/2017 (Código de Defesa do Usuário do Serviço Público)?",
+      "score": 1.75,
+      "maximum": 1.75
+    },
+    {
+      "uf": "MS",
+      "dimension": "3",
+      "indicator": "III.2 - A criação de Grupos Setoriais de Trabalho para Desburocratização e Simplificação foi regulamentado via Decreto no Governo Estadual/Distrital, conforme previsto no Art. 5º da Lei Federal 13.726/2018 (Grupos Setoriais de Trabalho para Desburocratização e Simplificação)?",
+      "score": 3.5,
+      "maximum": 3.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "3",
+      "indicator": "III.3 - O funcionamento do Portal Único/Portal de Serviços foi regulamentado pelo Governo Estadual/Distrital (Ex.: Decreto Federal 9.756/2019)?",
+      "score": 2.5,
+      "maximum": 2.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "3",
+      "indicator": "III.4 - O uso de assinaturas eletrônicas em interações com entes públicos foi normatizada pelo Governo Estadual/Distrital, conforme previsto pela Lei Federal 14.063/2020 (Assinaturas Eletrônicas)?",
+      "score": 3.5,
+      "maximum": 3.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "3",
+      "indicator": "III.5 - Princípios para Governo Digital e Eficiência Pública foram normatizados pelo Governo Estadual/Distrital, conforme previsto pela Lei Federal 14.129/2021 (Governo Digital e Eficiência Pública)?",
+      "score": 3.5,
+      "maximum": 3.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "3",
+      "indicator": "III.6 - Possui Laboratório de Inovação em Governo? [Lei Federal 14.129/2021 - Art. 44º e 45º]",
+      "score": 3,
+      "maximum": 3
+    },
+    {
+      "uf": "MS",
+      "dimension": "3",
+      "indicator": "III.7 - A UF possui Portal Único ou de Serviços com funcionalidade de consentimento para LGPD?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "4",
+      "indicator": "IV.1 - O texto utiliza tempos verbais na 2a ou 3a pessoa do singular ?",
+      "score": 5,
+      "maximum": 5
+    },
+    {
+      "uf": "MS",
+      "dimension": "4",
+      "indicator": "IV.2 - As frases dos textos são curtas e indicam uma única ação?",
+      "score": 5,
+      "maximum": 5
+    },
+    {
+      "uf": "MS",
+      "dimension": "4",
+      "indicator": "IV.3 - O Título é objetivo e curto?",
+      "score": 4,
+      "maximum": 5
+    },
+    {
+      "uf": "MS",
+      "dimension": "4",
+      "indicator": "IV.4 - O texto tem parágrafos curtos?",
+      "score": 5,
+      "maximum": 5
+    },
+    {
+      "uf": "MS",
+      "dimension": "4",
+      "indicator": "IV.5 - O texto utiliza o tempo presente do verbo?",
+      "score": 5,
+      "maximum": 5
+    },
+    {
+      "uf": "MS",
+      "dimension": "4",
+      "indicator": "IV.6 - O texto utiliza caracteres especiais?",
+      "score": 5,
+      "maximum": 5
+    },
+    {
+      "uf": "MS",
+      "dimension": "4",
+      "indicator": "IV.7 - O vocabulário está de fácil entendimento?",
+      "score": 5,
+      "maximum": 5
+    },
+    {
+      "uf": "MS",
+      "dimension": "4",
+      "indicator": "IV.8 - Na metodologia utilizada para descrição ou apresentação dos serviços digitais há descrição de como fazer a aplicação da técnica de Linguagem Simples?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "4",
+      "indicator": "IV.9 - Possui mecanismos para o cidadão pedir melhoria na apresentação dos serviços?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "5",
+      "indicator": "V.1 - A UF disponibiliza aplicativo móvel para acesso ao portal único ou portal de serviço, capaz de enviar notificações personalizadas e acompanhamento dos serviços pelo cidadão?",
+      "score": 0,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "5",
+      "indicator": "V.2 - A UF utiliza ciência de dados, inteligência artificial ou algoritmo em algum serviço público disponível ao cidadão?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "5",
+      "indicator": "V.3 - A UF possui opções de pagamentos de serviços disponíveis aos cidadãos através de PIX e/ou Cartão de Crédito?",
+      "score": 3.0001500000000005,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "5",
+      "indicator": "V.4 - A UF possui plataforma de governo, portal de serviços ou portal único, que disponibiliza um ambiente personalizado, onde o cidadão, após identificação, acessa serviços, notificações e informações adaptadas ao seu perfil e históricos de interações com o governo?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "5",
+      "indicator": "V.5 - A UF possui consulta da situação do licenciamento de veículo com opção de pagamento eletrônico?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "5",
+      "indicator": "V.6 - A UF possui um serviço online para emitir Certidão Negativa Estadual?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "5",
+      "indicator": "V.7 - A UF disponibiliza a emissão da nova CIN - Carteira de Identidade Nacional?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "5",
+      "indicator": "V.8 - A UF possui Transferência Digital de Veículos por meio do site, portal único ou aplicativo do Governo?",
+      "score": 4.5,
+      "maximum": 4.5
+    },
+    {
+      "uf": "MS",
+      "dimension": "5",
+      "indicator": "V.9 - A UF possui plataforma de serviços digitais, portal único ou portal de serviços adaptado para proporcionar acessibilidade a surdos e pessoas com deficiência visual, em conformidade com as legislações vigentes, Lei nº 13.146/2015 e padrões de acessibilidade (eMAG, W3C)?",
+      "score": 4.5,
+      "maximum": 4.5
+    }
+  ],
+  "score": 191.25,
+  "maximum": 225.5,
+  "rank": 9
+}

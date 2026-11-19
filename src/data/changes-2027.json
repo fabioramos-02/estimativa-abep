@@ -1,0 +1,19 @@
+{
+  "summary": { "indicators2026": 44, "indicators2027": 39, "maintained": 14, "adjusted": 23, "excluded": 7, "new": 9 },
+  "dimensions": [
+    { "id": "1", "name": "Capacidades institucionais", "before": 12, "after": 12, "weight": 2.5 },
+    { "id": "2", "name": "Oferta de serviços digitais", "before": 12, "after": 10, "weight": 3.0 },
+    { "id": "3", "name": "Regulação e políticas", "before": 6, "after": 5, "weight": 2.0 },
+    { "id": "4", "name": "Experiência e inclusão", "before": 8, "after": 7, "weight": 2.86 },
+    { "id": "5", "name": "Inovação e IA", "before": 6, "after": 5, "weight": 2.0 }
+  ],
+  "comments": [
+    "1.4: esclarecer o teste de três serviços e o uso de bases consolidadas do gov.br.",
+    "1.5: solicitar pontuação integral para o acesso à internet de baixa renda.",
+    "2.9: rever critério dependente da plataforma federal Conecta gov.br.",
+    "3.5: esclarecer a exigência sobre regulamentação da Lei nº 15.263.",
+    "4.5: distinguir estratégia formal de processos e funcionalidades omnicanal.",
+    "4.6: considerar acessos da plataforma anterior durante a migração.",
+    "5.2: eliminar sobreposição no qualificador de política pública de IA."
+  ]
+}

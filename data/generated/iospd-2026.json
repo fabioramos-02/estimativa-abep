@@ -1,0 +1,398 @@
+[
+  {
+    "dimension": "1",
+    "indicator": "1.1",
+    "answer": "Sim",
+    "classification": "Evidência Incompleta",
+    "justification": "1.1a. Define metas quantificáveis? Não atendido. Embora o documento do Contrato de Gestão anexado pela UF apresente indicadores e metas, não há evidências de que esses elementos estejam diretamente vinculados à Estratégia de Governo Digital, o que impede sua consideração para fins deste qualificador. Recomenda-se que a UF apresente documentação adicional que comprove a existência de metas específicas associadas à Estratégia de Governo Digital, a fim de viabilizar a reavaliação deste item. 1.1b. Identifica ações para alcançar as metas? Não atendido. O Artigo 5º do Decreto estabelece que, para a consecução dos objetivos previstos, os órgãos e entidades do Poder Executivo Estadual devem elaborar Planos Diretores de Tecnologia da Informação (PDTI) no âmbito de suas competências. No entanto, tais planos não foram anexados pela UF. Adicionalmente, o Plano de Transformação Digital (PDT) mencionado também não foi apresentado. Dessa forma, não foi possível verificar a existência de ações estruturadas vinculadas às metas da estratégia. Recomenda-se que a UF anexe esses documentos para possibilitar a revisão desta análise. 1.1c. Especifica mecanismos para monitorar o progresso? Atendido. O Artigo 7º do Decreto nº 16.403 atribui à Secretaria de Estado e Gestão Estratégica (SEGOV), por meio da Secretaria-Executiva de Transformação Digital (SETDIG), a responsabilidade de monitorar as iniciativas de transformação digital. Embora o decreto não detalhe os instrumentos ou metodologias de monitoramento, a UF apresentou evidências complementares, como registros de sistema com acompanhamento de projetos, o que sustenta o atendimento ao qualificador. 1.1d. Inclui mecanismo de governança da própria estratégia? Atendido. O Decreto nº 16.713 institui a Rede Estadual de Transformação Digital, responsável pela governança e implementação das iniciativas de transformação digital, caracterizando uma estrutura formal de coordenação. 1.1e. Inclui um período para revisão da estratégia? Não atendido. As evidências apresentadas não indicam a definição de prazos ou de ciclos formais para a revisão, atualização ou avaliação periódica da estratégia. Recomenda-se que a UF apresente, na fase de convalidação, evidências adicionais que comprovem a previsão de um período definido para revisão ou atualização da estratégia. 1.1f. Define responsabilidades para implementação da estratégia? Atendido. As responsabilidades para a implementação estão definidas nos instrumentos normativos apresentados, com atribuições claras para os órgãos envolvidos.",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "1",
+    "indicator": "1.2",
+    "answer": "Sim",
+    "classification": "Evidência Incompleta",
+    "justification": "1.2.a. Tem mandato para definir políticas e normas de TIC para o estado? Atendido. A Secretaria-Executiva de Transformação Digital (SETDIG) possui competência formal para execução de políticas e diretrizes de governança e gestão de TIC, conforme o § 8º da Lei nº 6.035/2022. O Decreto nº 16.403/2024 reforça esse mandato ao atribuir à SETDIG a definição de padrões, métricas e orientações para a Estratégia de Governo Digital, e o Decreto nº 16.713/2025 estabelece que a SETDIG define políticas, diretrizes e normas de transformação digital. 1.2.b. Tem mandato para liderar a governança de TIC do estado? Atendido. A SETDIG possui competência para planejamento, coordenação e execução das atividades de TIC no Estado, conforme o § 8º da Lei nº 6.035/2022. O Decreto nº 16.713/2025 institui a Rede Estadual de Transformação Digital, liderada pela SETDIG, com função de promover governança, alinhamento estratégico e integração das iniciativas digitais no âmbito estadual. 1.2.c. Tem mandato para providenciar serviços tecnológicos comuns a todos os órgãos do estado (diretamente ou por meio de coordenação)? Atendido. A Lei nº 6.035/2022 atribui à SETDIG a promoção da infraestrutura tecnológica e a integração dos sistemas (incisos III e VII). O Decreto nº 16.166/2023 detalha a atuação operacional da Superintendência de Tecnologia da Informação, responsável por prover infraestrutura de TIC, datacenter, redes, sistemas corporativos e serviços compartilhados para os órgãos do Estado. O Decreto nº 16.404/2024 também estabelece a manutenção do Portal Único pela SETDIG. 1.2.d. Tem mandato para liderar a implementação da estratégia de governo digital? Atendido. O Decreto nº 16.403/2024 estabelece que a SETDIG coordena a implementação da Estratégia de Governo Digital, incluindo monitoramento e apoio aos órgãos. O Decreto nº 16.713/2025 reforça esse papel ao atribuir à SETDIG a coordenação da estratégia estadual de transformação digital. 1.2.e. Tem mandato para desenvolver estândares técnicos comuns para a transformação digital do estado? Atendido. A Lei nº 6.035/2022 atribui à SETDIG o planejamento e a coordenação de modelos, técnicas e ferramentas de TIC (inciso II), bem como a promoção de plataformas tecnológicas integradas (inciso V). O Decreto nº 16.403/2024 complementa ao atribuir à SETDIG a definição de padrões e orientações, e o Decreto nº 16.713/2025 estabelece a padronização de soluções no âmbito da transformação digital. 1.2.f. Tem mandato para coordenar compras de TIC no estado? Não atendido. O Decreto nº 16.138/2023 estabelece mecanismos de coordenação e controle das contratações públicas, incluindo TIC, com participação da SEGOV na análise das demandas. No entanto, não há dispositivo normativo que estabeleça de forma explícita o mandato de uma instituição para coordenar, centralizar ou orientar especificamente as compras de TIC no Estado. Recomenda-se que a UF apresente, na fase de convalidação, evidência de que alguma instituição possui esse mandato específico.",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "1",
+    "indicator": "1.3",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "Evidência Comprovada. O Decreto Nº 15.478 institui o Comitê Estratégico de Tecnologia da Informação (CETI), órgão colegiado formalmente estabelecido, com composição interinstitucional e competências deliberativas abrangentes, incluindo definição de políticas, priorização de investimentos e governança do portfólio de projetos de TIC. Além disso, o Decreto Nº 16.713 institui a Rede Estadual de Transformação Digital (RTD), complementamndo a estrutura ao promover articulação, alinhamento e coordenação entre os órgãos e entidades. Em conjunto, essas estruturas configuram um mecanismo de governança colegiada com capacidade de coordenação transversal das políticas e iniciativas de governo digital ou TIC, conforme requerido pelo indicador.",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "1",
+    "indicator": "1.4",
+    "answer": "Sim",
+    "classification": "Evidência Não Comprovada",
+    "justification": "Evidência Não Comprovada. As normas analisadas não instituem uma estrutura colegiada formalmente dedicada à governança de dados, nos termos exigidos pelo indicador. A Deliberação CGMS nº 1/2023 cria um comitê temático voltado à reforma tributária, com escopo específico e não relacionado à governança de dados. O Decreto nº 14.162/2015 cria o Conselho de Governança de Mato Grosso do Sul (CGMS), instância ampla de coordenação estratégica de governo, sem mandato explícito para governança de dados. Já a Deliberação “P” nº 1/2021 e o Decreto nº 15.572/2020 tratam da adequação à LGPD e da proteção de dados pessoais, com foco em privacidade e conformidade normativa, e não na coordenação transversal de políticas, estratégias e iniciativas de gestão, uso, qualidade e compartilhamento de dados no âmbito do Estado. Dessa forma, não se comprova a existência de instância colegiada específica de governança de dados com mandato explícito e capacidade decisória, conforme requerido pelo indicador.",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "1",
+    "indicator": "1.5",
+    "answer": "1.5a. possui um marco de competências digitais que os servidores devem ter?, 1.5c. promove ações de capacitação nas competências digitais para o seu quadro de servidores?",
+    "classification": "Evidência Incompleta",
+    "justification": "1.5.a. Possui um marco de competências digitais que os servidores devem ter? Não atendido. A UF apresentou evidências relacionadas à adoção do modelo de gestão por competências no âmbito da Escola de Governo e do Plano de Desenvolvimento Institucional (PDI), incluindo a incorporação de competências transversais como mentalidade digital. No entanto, não foi identificado um marco estruturado de competências digitais, com definição clara, sistematizada e abrangente dos conhecimentos, habilidades e atitudes esperados dos servidores, tampouco níveis de proficiência organizados em uma matriz institucional. 1.5.b. Promove a realização periódica de diagnóstico das competências digitais do seu quadro de servidores? Não se aplica. 1.5.c. Promove ações de capacitação nas competências digitais para o seu quadro de servidores? Atendido. Há evidências de oferta de capacitações relacionadas a competências digitais, incluindo curso sobre o sistema eletrônico de processos e-MS, conteúdos de LGPD, transformação digital, análise de dados, Power BI, Excel e uso de plataformas digitais, ofertados pela Escolagov-MS e vinculados ao desenvolvimento dos servidores públicos.",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "1",
+    "indicator": "1.6",
+    "answer": "1.6.a adota padrões técnicos e normas para o compartilhamento de dados?, 1.6.b possui uma plataforma de interoperabilidade ou barramento de serviços para integração entre órgãos?",
+    "classification": "Evidência Incompleta",
+    "justification": "1.6.a Adota padrões técnicos e normas para o compartilhamento de dados? Não atendido. A UF apresentou evidências técnicas do sistema TransfereMS, incluindo uso de APIs REST, formato JSON, autenticação e documentação via Swagger/OpenAPI, o que demonstra a adoção de boas práticas técnicas de integração. No entanto, não foram apresentadas normas, decretos, resoluções ou guias institucionais formalizados que estabeleçam padrões técnicos de interoperabilidade aplicáveis a múltiplos órgãos. As evidências se limitam a um sistema específico, não caracterizando a existência de um padrão institucional de interoperabilidade no âmbito do Estado. Recomenda-se que a UF apresente, na fase de convalidação, evidências que comprovem a definição formal de padrões técnicos e normas de interoperabilidade aplicáveis de forma transversal à administração pública estadual. 1.6.b Possui uma plataforma de interoperabilidade ou barramento de serviços para integração entre órgãos? Não atendido. A UF apresentou evidências de integração do sistema TransfereMS com outros sistemas estaduais por meio de APIs, bem como menção a um “barramento lógico de serviços”. Contudo, não foi comprovada a existência de uma plataforma institucionalizada de interoperabilidade (como API Gateway governamental, ESB ou plataforma central de integração) com uso padronizado entre múltiplos órgãos. As evidências indicam integrações pontuais entre sistemas, e não um barramento ou infraestrutura central de interoperabilidade formalmente estabelecida. Recomenda-se que a UF apresente, na fase de convalidação, evidências que comprovem a existência de uma plataforma de interoperabilidade institucionalizada, com documentação, catálogo de serviços ou normas que estabeleçam seu uso como padrão.",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "1",
+    "indicator": "1.7",
+    "answer": "Sim",
+    "classification": "Evidência Incompleta",
+    "justification": "1.7.a Possui autenticação integrada ao GOV.BR? Atendido. O portal conta com autenticação integrada ao GOV.BR. 1.7.b Possui barra de busca eficaz para localizar serviços? (teste com busca de 3 serviços aleatórios) Não atendido. O Comitê Avaliador realizou testes de busca dos serviços de transferência de veículos (Indicador 2.10), consulta de medicamentos (Indicador 2.6) e rematrícula / renovar matrícula (Indicador 2.1), porém apenas obteve êxito em localizar os serviços de transferência de veículos e consulta de medicamentos. Ressalta-se que os serviços buscados foram padronizados para todas as UFs. Recomenda-se que a UF apresente, na fase de convalidação, evidências adicionais, como registro em vídeo, que demonstrem a localização desses serviços, caso entenda ser possível. 1.7.c É responsivo em dispositivos móveis ou possui App compatível? Atendido. O portal apresenta design responsivo, com adaptação adequada a dispositivos móveis. 1.7.d Apresenta experiência de uso consistente na jornada dos serviços? (teste com busca de 3 serviços aleatórios) Atendido. Ao buscar e selecionar um serviço, o cidadão é direcionado a uma página padronizada, contendo informações como “O que é este serviço?”, “Exigências”, “Quem pode utilizar”, “Custos” e “Etapas”, entre outras. Ao clicar em “Acessar serviço”, o usuário é direcionado para o ambiente de solicitação. Em alguns casos, é um ambiente externo. 1.7.e Possui área para acompanhar o status dos serviços solicitados (por etapas)? Atendido. O usuário pode acompanhar suas solicitações, agendamentos e demais ações realizadas. 1.7.f As informações sobre privacidade e tratamento de dados pessoais estão claramente disponíveis (conforme LGPD)? Atendido. O portal disponibiliza, na área do usuário, uma seção de privacidade que permite o gerenciamento de permissões e termos de aceite. 1.7.g O portal tem uma abordagem proativa para os serviços (ex. personalização de conteúdo ou serviços com base em momentos de vida)? Não atendido. Embora exista um painel do usuário com funcionalidades como acompanhamento de solicitações, agendamentos, ações e serviços favoritos, não foram identificados mecanismos de proatividade, como notificações ou alertas personalizados, recomendações de serviços ou jornadas estruturadas. Caso tais funcionalidades existam, recomenda-se a apresentação de evidências na fase de convalidação. 1.7.h O cidadão pode gerenciar seu cadastro e perfil diretamente no portal? Atendido. Na seção “Meu Perfil”, o cidadão pode visualizar suas informações cadastrais e, caso deseje atualizá-las, é direcionado ao ambiente GOV.BR.",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "1",
+    "indicator": "1.8",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "Evidência Comprovada. A UF apresentou evidências de três serviços digitais distintos que utilizam assinatura eletrônica por meio do GOV.BR, demonstrando sua aplicação em diferentes contextos de serviços públicos. Adicionalmente, foi apresentada evidência institucional (notícia oficial) que confirma a adoção da Assinatura GOV.BR no âmbito dos serviços da e-Fazenda. O conjunto comprova o uso efetivo e recorrente da solução como mecanismo transversal de assinatura eletrônica nos fluxos digitais do Estado.",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "1",
+    "indicator": "1.9",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "Evidência Comprovada. A UF apresentou evidências que demonstram a disponibilização de pagamento digital via PIX em serviços públicos digitais, incluindo serviços da Secretaria de Estado de Fazenda (IPVA), da Procuradoria Geral do Estado (emissão de DAEMS para pagamento de taxas) e da Junta Comercial do Estado (emissão de certidões digitais).",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "1",
+    "indicator": "1.10",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "1.10a A unidade possui ao menos uma pessoa dedicada? Atendido. A UF apresentou evidência de que há profissional alocado na USGI. 1.10b A unidade possui procedimentos formalizados para monitoramento, análise de alertas, gestão de vulnerabilidades e comunicação de eventos de segurança da informação? Atendido. Foram apresentados playbooks e fluxos operacionais detalhados que descrevem procedimentos de monitoramento contínuo, detecção e análise de eventos, resposta a incidentes, comunicação e escalonamento. Os documentos incluem etapas estruturadas (detecção, contenção, erradicação, recuperação e lições aprendidas), além de definição de papéis e responsabilidades, caracterizando a existência de processos formalizados e padronizados. 1.10c A unidade usa ferramentas de segurança da informação que permitam visibilidade centralizada do ambiente digital, como soluções de monitoramento, correlação de eventos e detecção de ameaças? Atendido. As evidências indicam o uso de ferramentas e soluções de segurança da informação, como SIEM, EDR/XDR, IDS/IPS, FortiGate, FortiMail e mecanismos de monitoramento de logs e tráfego de rede. Há referência à centralização de logs e à análise de eventos provenientes de diferentes fontes, bem como ao monitoramento da Infovia, do Datacenter Estadual e de sistemas críticos do Governo de Alagoas. Esses elementos demonstram a existência de visibilidade consolidada do ambiente digital em nível estadual, com capacidade de detecção e resposta a ameaças.",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "1",
+    "indicator": "1.11",
+    "answer": "d) Equipe formalizada, com processos documentados, e integrada ao ecossistema nacional de resposta a incidentes (ex. registro formal na ReGIC,: CTIR Gov).",
+    "classification": "Evidência Comprovada",
+    "justification": "Evidência Comprovada. Há evidência de integração formal ao ecossistema nacional por meio do Termo de Adesão à Rede Federal de Gestão de Incidentes Cibernéticos (ReGIC), firmado pela SETDIG, conforme exigido pela opção D. Também há evidências claras de operação prática da equipe, com registros de tratamento de incidentes oriundos do CTIR Gov, demonstrando recebimento, análise e acompanhamento de vulnerabilidades e eventos de segurança, com atribuição à Unidade de Gestão de Segurança da Informação (UGSI). No que se refere à formalização e processos, a estrutura institucional de segurança da informação está estabelecida, com atribuições da UGSI relacionadas à gestão e operacionalização da segurança da informação no Estado. Além disso, foram apresentadas evidências de processos documentados, incluindo fluxo estruturado de tratamento de incidentes (da identificação à mitigação e aprendizado), com registro formal em sistema, categorização, acionamento de equipes, comunicação e documentação das ações. A Política de Segurança da Informação também estabelece diretrizes formais para registro e tratamento de incidentes, incluindo monitoramento, comunicação e gestão de eventos.",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "1",
+    "indicator": "1.12",
+    "answer": "1.12.a. possui alguma política, programa, estrutura ou marco voltado para reduzir as lacunas de conectividade do Estado?, 1.12.c possui um programa de acesso à internet para população de baixa renda?",
+    "classification": "Evidência Comprovada",
+    "justification": "1.12.a. Possui alguma política, programa, estrutura ou marco voltado para reduzir as lacunas de conectividade do Estado? Atendido. A UF apresentou evidências da existência de um programa estruturado de conectividade, a Infovia Digital, instituída no âmbito do governo estadual por meio de parceria público-privada. O projeto prevê a implantação de aproximadamente 7 mil km de rede de fibra óptica interligando os 79 municípios, além da conexão de mais de 1.600 pontos da administração pública estadual e criação de infraestrutura dedicada para transmissão de dados, voz e imagem. 1.12.b. Possui banda larga fixa de fibra óptica de no mínimo 100 Mbps em suas unidades públicas? Não se aplica. 1.12.c. Possui um programa de acesso à internet para população de baixa renda? Atendido. As evidências apresentadas demonstram a existência de iniciativa estruturada de oferta de conectividade à população por meio do programa Infovia – Praças de Atendimento Público (PAPs), que disponibiliza Wi-Fi gratuito em espaços públicos. A iniciativa se enquadra nos critérios do indicador ao promover acesso gratuito à internet em áreas públicas, ampliando a conectividade especialmente para populações que dependem de acesso público, como em praças e espaços urbanos. Ainda que não haja focalização explícita por renda, o modelo de Wi-Fi público gratuito em larga escala é compatível com políticas de inclusão digital voltadas a populações vulneráveis. 1.12.d. Percentual de escolas estaduais com “conectividade adequada” no Inec Conforme dados apresentados do Indicador Escolas Conectadas (Inec), 78,2% das escolas da rede estadual do Mato Grosso do Sul possuem conectividade dentro dos parâmetros adequados. Dessa forma, a UF obtém a pontuação integral da subpergunta (0,625 pontos).",
+    "score": 1.88,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "2",
+    "indicator": "2.1",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "-",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "2",
+    "indicator": "2.2",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "A evidência demonstra submissão digital de ponta a ponta, incluindo envio de solicitações, upload de documentos, processamento e comunicação do resultado das solicitações de medicamentos do CEAF, sem a necessidade de etapa presencial obrigatória antes da dispensação.",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "2",
+    "indicator": "2.3",
+    "answer": "2.3.a disponibiliza teleconsulta por videoconferência, podendo também ofertar outras modalidades digitais síncronas ou assíncronas?, 2.3.d Os serviços seguem protocolos clínicos e diretrizes formais , recomendados pelo Estado ou Ministério da Saúde?",
+    "classification": "Evidência Incompleta",
+    "justification": "2.3.a) O Comitê Avaliador considera a evidência insuficiente, uma vez que, embora os vídeos, capturas de tela e comunicações apresentadas demonstrem a existência de atendimentos, não foi apresentado ato normativo ou documentação formal que institua a teleconsulta, conforme exigido pelo indicador. Para demonstrar conformidade, a UF deve apresentar um instrumento normativo (por exemplo, portaria, resolução ou ato oficial) que estabeleça ou regulamente formalmente a teleconsulta no âmbito do sistema de saúde estadual. 2.3.b) O Comitê Avaliador considera a evidência suficiente para pontuação no qualificador 2.3.b), porém a UF não marcou o qualificador 2.3.b) na plataforma. 2.3.d) Evidência comprovada.",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "2",
+    "indicator": "2.4",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "-",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "2",
+    "indicator": "2.5",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "-",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "2",
+    "indicator": "2.6",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "Embora o serviço não apresente a localização dos medicamentos em estoque, o Comitê de Avaliação pontua a UF neste indicador em conformidade com os critérios de avaliação, ou seja, as unidades de dispensação correspondentes não são obrigatórias para pontuar neste indicador.",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "2",
+    "indicator": "2.7",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "-",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "2",
+    "indicator": "2.8",
+    "answer": "Não",
+    "classification": "Evidência Comprovada",
+    "justification": "-",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "2",
+    "indicator": "2.9",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "-",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "2",
+    "indicator": "2.10",
+    "answer": "Sim",
+    "classification": "Evidência Incompleta",
+    "justification": "A UF apresenta evidências consistentes das etapas iniciais e intermediárias da jornada digital de transferência de propriedade, incluindo a validação dos dados, a geração de protocolo, a solicitação do serviço e a emissão da guia de pagamento em ambiente digital. No entanto, não foram apresentadas evidências suficientes para comprovar a conclusão integral da jornada administrativa em meio digital. Em especial, não foi possível verificar: (i) a realização e confirmação do pagamento em ambiente digital integrado ao fluxo, e (ii) a finalização do processo com a emissão do CRLV atualizado em nome do adquirente. Solicita-se o envio de evidências adicionais que demonstrem a confirmação do pagamento e a emissão do CRLV de forma digital ao final do processo.",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "2",
+    "indicator": "2.11",
+    "answer": "Entendi",
+    "classification": "Evidência Comprovada",
+    "justification": "[D] 20% a 29,9%",
+    "score": 1.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "2",
+    "indicator": "2.12",
+    "answer": "Sim",
+    "classification": "Evidência Incompleta",
+    "justification": "O Comitê Avaliador considera que a evidência apresentada demonstra a existência de uma plataforma digital unificada de acesso aos serviços de saúde, por meio do aplicativo Rede Cidadão, que centraliza funcionalidades assistenciais em ambiente único e autenticado. 2.12.a, 2.12.b e 2.12.d: Evidência Incompleta. Não foram evidenciadas funcionalidades de agendamento de consultas e exames especializados, acompanhamento do status de solicitações ou integração com a RNDS. 2.12.c: Evidência Comprovada",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "3",
+    "indicator": "3.1",
+    "answer": "Sim",
+    "classification": "Evidência Incompleta",
+    "justification": "3.1a. Uma norma institui formalmente o Portal? Atendido. O Decreto nº 16.404/2024 institui formalmente o Portal Único “ms.gov.br” como plataforma central de serviços e informações do Estado. O portal é concebido como ambiente centralizado para acesso a serviços públicos digitais e informações institucionais. 3.1b. A norma outorga responsabilidade ao órgão central de TIC/governo digital para autorizar canais digitais? Atendido. A norma estabelece claramente a governança centralizada ao vedar a criação de novos portais ou aplicativos sem autorização prévia da Secretaria-Executiva de Transformação Digital (Art. 7º) e ao atribuir a esse órgão a competência para autorizar o registro de domínios e aplicativos (Art. 8º). 3.1c. A norma estabelece estratégia de unificação/migração/padronização dos canais? Atendido. A norma estabelece estratégia clara de unificação e harmonização ao definir o Portal Único como plataforma centralizadora de informações e serviços (Art. 1º), ao estabelecer que ele funcionará como principal canal digital (Art. 3º) e ao determinar a integração obrigatória dos serviços e canais digitais ao portal (Art. 9º). Adicionalmente, a vedação à existência de novos portais paralelos sem autorização (Art. 7º) e a exigência de padronização da integração dos serviços reforçam a estratégia de consolidação e harmonização dos canais existentes. 3.1d. A norma define prazos ou etapas de implementação? Não atendido. A norma não estabelece prazos específicos nem etapas explícitas de implementação para a unificação, migração ou integração dos serviços ao Portal Único. Embora determine obrigações a partir da publicação do decreto, como integração de serviços e adoção da plataforma pelos órgãos (Art. 9º e 10), não há definição de cronograma, fases ou marcos temporais para execução dessas ações. O contrato de gestão apresentado contém metas e entregas relacionadas à transformação digital, mas não configura norma regulatória do Portal nem substitui a exigência de definição de prazos ou etapas na regulamentação principal. Caso existam normativos complementares que estabeleçam cronograma de implementação, recomenda-se sua apresentação na fase de convalidação para reavaliação pelo Comitê Avaliador.",
+    "score": 0,
+    "maximum": 1.66
+  },
+  {
+    "dimension": "3",
+    "indicator": "3.2",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "UF ATENDE o indicador 3.2, com fundamento principal no Decreto Estadual nº 16.403/2024, que regulamenta explicitamente a Lei Federal nº 14.129/2021, e reforço no Decreto nº 16.713/2025.",
+    "score": 1.66,
+    "maximum": 1.66
+  },
+  {
+    "dimension": "3",
+    "indicator": "3.3",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "Evidência Comprovada. O Decreto nº 15.903/2022, que não foi apresentado pela UF, mas é referenciado pela Decreto Nº 16.564/2025, tem como objeto central disciplinar o uso de assinaturas eletrônicas no âmbito da Administração Pública estadual, estabelecendo regras claras, conceitos, classificações e requisitos mínimos para sua utilização. A norma possui abrangência ampla, aplicando-se à Administração Direta, autarquias e fundações, e cobre explicitamente interações entre cidadãos (pessoas naturais e jurídicas) e o poder público, além de interações internas e entre entes públicos. Além disso, o decreto está diretamente alinhado à Lei Federal nº 14.063/2020, incorporando suas definições e classificações (simples, avançada e qualificada), e vai além ao estabelecer níveis mínimos exigidos para diferentes tipos de interação, detalhando casos de uso para cada nível de assinatura.",
+    "score": 1.66,
+    "maximum": 1.66
+  },
+  {
+    "dimension": "3",
+    "indicator": "3.4",
+    "answer": "3.4.b. Simplificação e/ou racionalização administrativa de serviços públicos digitais, 3.4.c. Segurança da Informação, 3.4.d. Privacidade em serviços digitais, 3.4.a. Acessibilidade de serviços digitais",
+    "classification": "Evidência Incompleta",
+    "justification": "3.4.a Acessibilidade de serviços digitais Não atendido. A UF apresentou o Manual de Acessibilidade Digital, que estabelece diretrizes técnicas detalhadas e define padrões obrigatórios para desenvolvimento de sites e sistemas. No entanto, o documento possui natureza orientativa e técnica, não sendo caracterizado como lei, decreto ou portaria com força normativa formal. Dessa forma, embora haja conteúdo robusto e alinhado às boas práticas, não se comprova a existência de normativa formal que estabeleça obrigações de acessibilidade digital de forma transversal no Estado. Recomenda-se a apresentação de decreto, lei ou portaria que institucionalize esses padrões como obrigatórios. 3.4.b Simplificação e/ou racionalização administrativa de serviços públicos digitais Atendido. A UF apresentou a Lei nº 6.490/2025, que estabelece normas gerais de processo administrativo, com previsão de adoção de formas simples, eliminação de formalidades desnecessárias, prática de atos em meio eletrônico e racionalização dos procedimentos administrativos. A norma impõe obrigações concretas de simplificação, incluindo padronização de processos, redução de exigências documentais e priorização de meios digitais. Adicionalmente, o Decreto nº 16.403/2024 institui a Estratégia de Governo Digital, prevendo desburocratização, redução de etapas, automação e simplificação dos serviços públicos digitais. 3.4.c Segurança da Informação Atendido. A UF apresentou a Deliberação CETI nº 02/2022, que aprova a Política de Segurança da Informação aplicável de forma transversal ao governo estadual. 3.4.d Privacidade em serviços digitais Atendido. A UF apresentou o Decreto nº 15.572/2020, que regulamenta a aplicação da Lei Geral de Proteção de Dados no âmbito do Poder Executivo estadual.",
+    "score": 0,
+    "maximum": 1.66
+  },
+  {
+    "dimension": "3",
+    "indicator": "3.5",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "UF ATENDE INTEGRALMENTE O INDICADOR 3.5 Possui decreto estadual vigente instituindo política de linguagem simples (evidência obrigatória). Apresenta guias e materiais técnicos institucionais. Demonstra implementação prática e governança estruturada.",
+    "score": 1.66,
+    "maximum": 1.66
+  },
+  {
+    "dimension": "3",
+    "indicator": "3.6",
+    "answer": "3.6.a Gestão de metadados, 3.6.b Avaliação da qualidade dos dados, 3.6.c Inventários de dados, 3.6.e Dados abertos, 3.6.f Papéis formalmente definidos para curadoria de dados, 3.6.d Anonimização de dados pessoais",
+    "classification": "Evidência Incompleta",
+    "justification": "3.6.a Gestão de metadados Não atendido. Apesar de haver definição de metadados no Decreto nº 15.221/2019, não há diretrizes formais que estabeleçam regras para gestão de metadados ao longo do ciclo de vida dos dados (padronização, documentação, manutenção e uso). Recomenda-se que a UF apresente, na fase de convalidação, evidência adicional que comprove a existência de norma ou diretriz formal que estabeleça regras explícitas para a gestão de metadados. 3.6.b Avaliação da qualidade dos dados Não atendido. Há menções a monitoramento e atualização de bases no Plano de Dados Abertos, mas não foram identificadas normas que definam critérios, metodologias ou responsabilidades formais para avaliação da qualidade dos dados de forma transversal. Recomenda-se que a UF apresente, na fase de convalidação, evidência adicional que comprove a existência de norma ou diretriz formal que estabeleça critérios, metodologias e responsabilidades para avaliação da qualidade dos dados. 3.6.c Inventários de dados Atendido. Há evidência de inventário estruturado de dados pessoais e obrigação normativa de mapeamento de dados no Decreto nº 15.572/2020. 3.6.d Anonimização de dados pessoais Atendido. 3.6.e Dados abertos Atendido. O Decreto nº 15.221/2019 institui formalmente a Política de Dados Abertos, com diretrizes, governança e responsabilidades, complementado por Plano vigente. 3.6.f Papéis formalmente definidos para curadoria de dados Atendido. O Decreto nº 15.572/2020 define formalmente papéis e responsabilidades (controlador, operador e encarregado) na gestão de dados.",
+    "score": 0,
+    "maximum": 1.66
+  },
+  {
+    "dimension": "4",
+    "indicator": "4.1",
+    "answer": "Entendi",
+    "classification": "Evidência Comprovada",
+    "justification": "Resultado: Três serviços validados O Comitê Avaliador verifica que os serviços analisados na Carta de Serviços da UF — Solicitação de Medicamentos do CEAF, Teleconsulta, Transferência de Estudante e Prova de Vida — estão descritos, em geral, com linguagem clara e acessível. Os textos são majoritariamente concisos, com uso de termos simples e etapas bem definidas, facilitando a compreensão pelo cidadão. No entanto, o serviço de Prova de Vida apresenta frases longas e complexas, além de excesso de termos técnicos e jurídicos, o que compromete a clareza. Ainda assim, a maioria dos serviços atende aos critérios de linguagem simples. Dessa forma, três serviços são validados, correspondendo à pontuação de 2,0 pontos. [D] Três serviços validados",
+    "score": 2,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "4",
+    "indicator": "4.2",
+    "answer": "Sim",
+    "classification": "Evidência Não Comprovada",
+    "justification": "A UF não pontua, pois as evidências apresentadas referem-se a diretrizes de acessibilidade digital, sem demonstrar a existência de um kit de ferramentas ou metodologias que padronizem a participação de cidadãos nas etapas de desenho, teste, validação ou melhoria de serviços digitais.",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "4",
+    "indicator": "4.3",
+    "answer": "4.3.a O Estado oferece uma combinação de canais offline e online para acesso aos serviços públicos?, 4.3.b O usuário pode iniciar o serviço em um canal e concluir em outro sem perda de informações?, 4.3.d Em caso de necessidade em um canal digital, o cidadão consegue obter ajuda de uma pessoa para acessar os serviços?",
+    "classification": "Evidência Incompleta",
+    "justification": "4.3.a) Evidência Comprovada 4.3.b) A UF apresentou uma demonstração do sistema do DETRAN sob a perspectiva do atendimento interno (servidores), não sendo possível observar a jornada do cidadão entre diferentes canais. Além disso, o conteúdo demonstra apenas a transferência de atendimento para agente humano, o que se relaciona ao apoio ao usuário, mas não comprova a continuidade do serviço entre canais distintos sem perda de informações. Para atendimento ao qualificador, solicita-se que a UF apresente evidências que demonstrem, do ponto de vista do cidadão, a continuidade do serviço entre canais, como: Documentação técnica que comprove a interoperabilidade entre sistemas e canais; ou Demonstrações funcionais (prints, vídeos ou testes) evidenciando o início do serviço em um canal (ex.: digital) e sua conclusão em outro (ex.: presencial ou telefônico), sem necessidade de reinício do processo ou reapresentação de informações. As evidências podem ser realizadas em ambiente de homologação, desde que se refiram a funcionalidades já disponíveis em produção. 4.3.c) N/A 4.3.d) Evidência Comprovada",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "4",
+    "indicator": "4.4",
+    "answer": "Entendi",
+    "classification": "Evidência Comprovada",
+    "justification": "[D] Entre 6 e 8",
+    "score": 1.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "4",
+    "indicator": "4.5",
+    "answer": "Confirmo que anexei a evidência com o número de usuários únicos do Portal de Serviços estadual",
+    "classification": "Evidência Comprovada",
+    "justification": "A UF apresentou evidência válida do número de usuários únicos do portal estadual, com base em dados extraídos diretamente do sistema de autenticação, considerando CPFs distintos com acesso registrado no mês de março de 2026. O total identificado foi de 39.182 usuários únicos. Com base nesses dados, o Índice Relativo de Adoção foi calculado em aproximadamente 0,02, enquadrando-se na faixa inferior a 0,10. Dados do MGI: 2092006",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "4",
+    "indicator": "4.6",
+    "answer": "4.6.a mede as brechas de habilidades digitais da população?, 4.6.b possui programas para o desenvolvimento de habilidades digitais para cidadãos alinhados com as brechas?, 4.6.c existe infraestrutura dedicada (como laboratórios, estações digitais ou centros de treinamento)?",
+    "classification": "Evidência Incompleta",
+    "justification": "O Comitê Avaliador identificou evidências de programas de capacitação digital voltados a públicos específicos, especialmente jovens e pessoas idosas, com oferta de cursos e oficinas práticas (4.6.b). Também foram apresentadas evidências de infraestrutura dedicada, incluindo unidades físicas e estruturas itinerantes como o ônibus de inclusão digital (4.6.c). No entanto, não foram apresentadas evidências de diagnóstico estruturado das brechas digitais da população, motivo pelo qual o subitem 4.6.a não foi pontuado.",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "4",
+    "indicator": "4.7",
+    "answer": "4.7b. o Estado tem alguma evidência ou caso que ilustre que os dados da avaliação são usados para aprimorar os serviços?, 4.7c. possui alguma métrica para avaliar a facilidade de encontrar informações no Portal?",
+    "classification": "Evidência Incompleta",
+    "justification": "Base (metodologia e ferramenta): Evidência Comprovada 4.7.a: N/A 4.7.b: Evidência Comprovada 4.7.c: A UF indicou atendimento a este qualificador; no entanto, o Comitê Avaliador não conseguiu identificar de forma clara, nas evidências apresentadas, métricas específicas relacionadas à facilidade de encontrar informações no portal. Solicita-se que a UF indique objetivamente onde, nas evidências enviadas, esse atendimento está demonstrado.",
+    "score": 0,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "4",
+    "indicator": "4.8",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "-",
+    "score": 2.5,
+    "maximum": 2.5
+  },
+  {
+    "dimension": "5",
+    "indicator": "5.1",
+    "answer": "Sim",
+    "classification": "Evidência Não Comprovada",
+    "justification": "A UF não enviou evidências da existência de estratégia ou política que explicitamente oriente sobre o uso de inteligência artificial no estado.",
+    "score": 0,
+    "maximum": 1.66
+  },
+  {
+    "dimension": "5",
+    "indicator": "5.2",
+    "answer": "5.2.a. Mineração de texto e análise da linguagem escrita , 5.2.b Reconhecimento de fala, que converte a linguagem falada em formato legível para máquinas , 5.2.c Geração de linguagem natural (GLN) para linguagem escrita ou falada, 5.2.e Aprendizagem de máquina para predição e análise de dados, 5.2.d Reconhecimento e processamento de imagens, que identificam registros visuais, objetos ou pessoas , 5.2.f Automatização de processos de fluxos de trabalho",
+    "classification": "Evidência Incompleta",
+    "justification": "5.2.a. Mineração de texto e análise da linguagem escrita Atende. Evidência: Chat Glória do Detran e sistema de IA do Detran-MS que rastreia indícios de fraudes nos sistemas. 5.2.b Reconhecimento de fala, que converte a linguagem falada em formato legível para máquinas Não atende. Não foi possível identificar a conversão de linguagem falada nos documentos compartilhados. 5.2.c Geração de linguagem natural (GLN) para linguagem escrita ou falada Atende. Glória Detran-MS. 5.2.d Reconhecimento e processamento de imagens, que identificam registros visuais, objetos ou pessoas Atende parcialmente. A evidência compartilhada (notícia sobre o uso de reconhecimento facial para emissão de CNH) não especifica sobre o uso de IA para reconhecimento das imagens. 5.2.e Aprendizagem de máquina para predição e análise de dados Atende. Detran-MS usa IA que rastreia indícios de fraudes. 5.2.f Automatização de processos de fluxos de trabalho Atende. Evidências: Assistente virtual Glória, Detran-MS e Agiliza Empresas.",
+    "score": 0,
+    "maximum": 1.66
+  },
+  {
+    "dimension": "5",
+    "indicator": "5.3",
+    "answer": "Sim",
+    "classification": "Evidência Não Comprovada",
+    "justification": "As evidências anexadas não foram consideradas para esta avaliação por não terem sido conduzidos no ano de 2025, conforme orientação deste indicador.",
+    "score": 0,
+    "maximum": 1.66
+  },
+  {
+    "dimension": "5",
+    "indicator": "5.4",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "-",
+    "score": 1.66,
+    "maximum": 1.66
+  },
+  {
+    "dimension": "5",
+    "indicator": "5.5",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "-",
+    "score": 1.66,
+    "maximum": 1.66
+  },
+  {
+    "dimension": "5",
+    "indicator": "5.6",
+    "answer": "Sim",
+    "classification": "Evidência Comprovada",
+    "justification": "Programa SUS Digital - transformação digital na saúde com 79 municípios.",
+    "score": 1.66,
+    "maximum": 1.66
+  }
+]

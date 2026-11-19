@@ -1,0 +1,5 @@
+# Fontes brutas e artefatos locais não fazem parte da aplicação publicada.
+data/generated/
+entrega/
+test-results/
+playwright-report/
